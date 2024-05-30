@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34728.123
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BuscaBinaria", "BuscaBinaria\BuscaBinaria.csproj", "{F45C464B-753E-4AE9-904B-725E1C4ACDEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F45C464B-753E-4AE9-904B-725E1C4ACDEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F45C464B-753E-4AE9-904B-725E1C4ACDEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F45C464B-753E-4AE9-904B-725E1C4ACDEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F45C464B-753E-4AE9-904B-725E1C4ACDEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {980F5D32-F404-4C5C-8C3F-A1A550FD4961}
+	EndGlobalSection
+EndGlobal

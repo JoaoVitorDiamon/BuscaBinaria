@@ -1,0 +1,7 @@
+C:\Users\gamer\source\repos\BuscaBinaria\BuscaBinaria\bin\Debug\BuscaBinaria.exe.config
+C:\Users\gamer\source\repos\BuscaBinaria\BuscaBinaria\bin\Debug\BuscaBinaria.exe
+C:\Users\gamer\source\repos\BuscaBinaria\BuscaBinaria\bin\Debug\BuscaBinaria.pdb
+C:\Users\gamer\source\repos\BuscaBinaria\BuscaBinaria\obj\Debug\BuscaBinaria.csproj.AssemblyReference.cache
+C:\Users\gamer\source\repos\BuscaBinaria\BuscaBinaria\obj\Debug\BuscaBinaria.csproj.CoreCompileInputs.cache
+C:\Users\gamer\source\repos\BuscaBinaria\BuscaBinaria\obj\Debug\BuscaBinaria.exe
+C:\Users\gamer\source\repos\BuscaBinaria\BuscaBinaria\obj\Debug\BuscaBinaria.pdb
